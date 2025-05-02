@@ -1,3 +1,15 @@
+"COMPANY *: COOTECH IT SOLUTIONS
+
+*NAME *: Ananya Vinayak Hegde
+
+"INTERN ID": CS25RY33517
+
+"DOMAIN": Artifical Intelligence
+
+*DURATION *: 4 WEEEKS
+
+"MENTOR *: NEELA SANTOSH
+
 Task 1: Rule-Based Chatbot
 A simple chatbot that responds to user queries based on predefined rules.
 
